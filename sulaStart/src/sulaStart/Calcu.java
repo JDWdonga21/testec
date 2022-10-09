@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Calcu {
 
 	public static void main(String[] args) {
+		// 반복실행, 예외처리 체크
 		String sign = "";
 		Scanner sc = new Scanner(System.in);
 		Calcus cal = new Calcus();
